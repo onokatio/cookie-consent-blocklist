@@ -20,4 +20,4 @@ GDPRやCCPAの対策として、Cookieを取得していますが不満であれ
 `filter.txt`を対応したソフトウェアへ読み込ませます。
 もしくは、URL形式で登録することも可能です。その場合は以下のURLを使用してください。
 
-https://raw.githubusercontent.com/onokatio/cookie-consent-blocklist/master/filter.txt
+[https://raw.githubusercontent.com/onokatio/cookie-consent-blocklist/master/filter.txt](https://raw.githubusercontent.com/onokatio/cookie-consent-blocklist/master/filter.txt)
