@@ -1,2 +1,7 @@
+[Adblock Plus 2.0]
+! Title: cookie consent blocklist
+! Expires: 7 days
+! Homepage: https://github.com/onokatio/cookie-consent-blocklist
+
 ! 2/13/2020 https://style.nikkei.com
 style.nikkei.com###ccpa-block
