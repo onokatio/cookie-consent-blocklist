@@ -20,4 +20,4 @@ GDPRやCCPAの対策として、Cookieを取得していますが不満であれ
 `filter.txt`を対応したソフトウェアへ読み込ませます。
 もしくは、URL形式で登録することも可能です。その場合は以下のURLを使用してください。
 
-https://cookie-consent-blocklist.netlify.com/filter.txt
+[https://cookie-consent-blocklist.netlify.com/filter.txt](https://cookie-consent-blocklist.netlify.com/filter.txt)
