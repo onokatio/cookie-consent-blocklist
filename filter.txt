@@ -8,3 +8,6 @@ style.nikkei.com###ccpa-block
 
 ! 3/28/2020 https://www.brita.co.jp
 www.brita.co.jp##.bg-dark.section-format-xxs
+
+! 6/12/2020 https://www.costco.co.jp
+www.costco.co.jp###gdprMessage
